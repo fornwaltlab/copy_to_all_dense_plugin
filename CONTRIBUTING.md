@@ -4,7 +4,7 @@ You can contribute to this project in many ways:
 ## Types of Contributions
 
 ### Report Bugs
-Report bugs at [https://github.com/suever/copy_to_all_plugin/issues](https://github.com/suever/copy_to_all_plugin/issues).
+Report bugs at [the Github Issue page][issues].
 
 If you are reporting a bug, please include:
 * Your operating system name and version
@@ -13,8 +13,10 @@ If you are reporting a bug, please include:
 * Detailed steps to reproduce the bug.
 
 ### Submit Feedback
-The best way to send feedback is to file an issue at [https://github.com/suever/copy_to_all_plugin/issues](https://github.com/suever/copy_to_all_plugin/issues).
+The best way to send feedback is to file an issue at the [Github project page][issues].
 
 If you are proposing a feature:
 * Explain in detail how it would work
 * Keep the scope as narrow as possible to make it easier to implement
+
+[issues]: [https://github.com/fornwaltlab/copy_to_all_dense_plugin/issues]
