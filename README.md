@@ -8,7 +8,7 @@ A menu item is added to the ROI editing menu which allows the user to perform th
 After installation of *DENSEanalysis*, run the following from the MATLAB command line:
 
 ```matlab
-plugins.PluginManager.import('https://github.com/fornwaltlab/copy_to_all_plugin')
+plugins.PluginManager.import('https://github.com/fornwaltlab/copy_to_all_dense_plugin')
 ```
 
 ## Credits
