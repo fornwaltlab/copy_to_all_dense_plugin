@@ -2,7 +2,7 @@
     "package": "copy_to_all_plugin",
     "version": "0.1.0",
     "description": "A plugin for copying one contour to all frames",
-    "name": "Menu Item",
+    "name": "Copy to All Frames",
     "author": "Jonathan Suever",
     "email": "suever@gmail.com",
     "url": "https://github.com/fornwaltlab/copy_to_all_dense_plugin"
