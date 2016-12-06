@@ -61,8 +61,9 @@ classdef CopyToAllFramesPlugin < plugins.DENSEanalysisPlugin
             data = guidata(hfig);
 
             % Call the normal callback and add our custom parameters
-            feval(self.origcback, 'ROIIndex', data.hdense.ROIIndex, ...
-                                  'Frame', data.hdense.Frame);
+            feval(self.origcback, src, [], ...
+                'ROIIndex', data.hdense.ROIIndex, ...
+                'Frame', data.hdense.Frame);
         end
 
         function run(~, data, varargin)
